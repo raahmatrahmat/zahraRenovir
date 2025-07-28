@@ -1,6 +1,4 @@
-git add pubspec.yaml
-git commit -m "Fix: clean pubspec.yaml format"
-git push origin main
+0
 
 M-\   # untuk lompat ke awal file
 M-/   # untuk lompat ke akhir file
