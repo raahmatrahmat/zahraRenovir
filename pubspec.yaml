@@ -1,3 +1,7 @@
+
+M-\   # untuk lompat ke awal file
+M-/   # untuk lompat ke akhir file
+
 name: zahra_renovir
 description: Aplikasi Flutter ZahraRenovir untuk build APK otomatis.
 version: 1.0.0+1
@@ -17,4 +21,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 0
+
 
